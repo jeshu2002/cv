@@ -7,11 +7,29 @@ hr {
  width: 5%;
 }
 h1 {
-  color: #66BFBF;
+  color: green;
 }
 h2 {
-  color: #66BFBF;
+  color: green;
 }
-img {
+img:hover {
+  background-color: gold;
+}
+/*class*/
+.owner {
   height: 10pc;
+  background-color: #9CB4CC;
+}
+.first{
+  height: 25pc;
+  background-color: brown;
+}
+.second{
+  height: 25pc;
+  background-color: grey;
+}
+/*id*/
+#heading{
+  color: white;
+
 }
